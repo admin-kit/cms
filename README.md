@@ -1,4 +1,4 @@
-# This is my package cms
+# Orchid CMS Package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/admin-kit/cms.svg?style=flat-square)](https://packagist.org/packages/admin-kit/cms)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/admin-kit/cms/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/admin-kit/cms/actions?query=workflow%3Arun-tests+branch%3Amain)
