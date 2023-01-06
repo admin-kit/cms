@@ -2,9 +2,9 @@
 
 namespace AdminKit\Cms;
 
+use AdminKit\Cms\Commands\CmsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use AdminKit\Cms\Commands\CmsCommand;
 
 class CmsServiceProvider extends PackageServiceProvider
 {

@@ -2,9 +2,9 @@
 
 namespace AdminKit\Cms\Tests;
 
+use AdminKit\Cms\CmsServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use AdminKit\Cms\CmsServiceProvider;
 
 class TestCase extends Orchestra
 {
